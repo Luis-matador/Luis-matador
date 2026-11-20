@@ -18,6 +18,7 @@ Me interesa sobre todo el desarrollo backend con **Java y Spring Boot**, las API
 | --- | --- | --- |
 | [Plataforma-Saas](https://github.com/Luis-matador/Plataforma-Saas) | Gestión de suscripciones con facturación automática, prorrateo, impuestos por país y auditoría. 79 tests. | Java 21, Spring Boot 4, JPA, Envers, JUnit 5, Mockito |
 | [BusTracking](https://github.com/Luis-matador/BusTracking) | Seguimiento en tiempo real de autobuses de Sevilla sobre un mapa, con simulación de rutas y WebSocket. | Java 17, Spring Boot, WebSocket, Angular 19, Leaflet |
+| [Liferay Client Extensions](https://github.com/Luis-matador/liferay-client-extensions) | Flight Manager (vuelos en tiempo real, compra de billetes) y un dashboard de cotizaciones, integrados en Liferay con la API Headless y Custom Objects. | Liferay DXP, React 19, Angular 18, Leaflet |
 | [PixelKeys Store](https://github.com/Luis-matador/PixelKeys-Store) | Tienda Android de claves digitales con carrito, pedidos, favoritos y panel de administración. | Kotlin, Room, Fragments, Material |
 | [Proyecto-Gimnasio](https://github.com/Luis-matador/Proyecto-Gimnasio) | Gestión de un gimnasio: socios, reservas por franjas, recibos y morosos. | Python, Tkinter, SQLite (MVC) |
 
