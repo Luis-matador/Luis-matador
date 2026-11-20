@@ -1,8 +1,8 @@
 # Hola, soy Ángel Luis 👋
 
-Desarrollador **Java backend / full stack** en Sevilla. Técnico superior en Desarrollo de Aplicaciones Multiplataforma, con un año de experiencia en **Minsait (Indra)** desarrollando sobre **Liferay DXP** en proyectos públicos de gran envergadura: módulos Java OSGi integrados con APIs REST y Client Extensions en React.
+Desarrollador **Java backend / full stack** en Sevilla. Técnico superior en Desarrollo de Aplicaciones Multiplataforma, con experiencia en **Minsait (Indra)** desarrollando sobre **Liferay DXP** en proyectos públicos de gran envergadura: módulos Java OSGi integrados con APIs REST y Client Extensions en React.
 
-Ahora busco mi siguiente puesto como desarrollador **Java / Spring Boot**. Disponibilidad inmediata, en presencial, híbrido o remoto.
+Me interesa sobre todo el desarrollo backend con **Java y Spring Boot**, las APIs bien diseñadas y el código con tests.
 
 ## Tecnologías
 
